@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: David Johnson Jr. # the website title (if blank, full name will be used instead)
+title: David Johnson Jr # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name: A
-last_name: Johnson Jr.
+last_name: Johnson Jr
 email: david@johnsonjr.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Seasoned product marketing in B2B tech.
@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: davidjohnsonjr # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: davidajohnsonjr # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: djohnsonjr # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
